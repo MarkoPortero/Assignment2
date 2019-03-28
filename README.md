@@ -1,5 +1,5 @@
 # Assignment2
-following simple number guessing game that utilizes client/server communication. 
+Simple number guessing game that utilizes client/server communication. 
 Overall during the game the server generates a target random integer value in the range “lowerLimit” to “upperLimit” 
 and then accepts guess attempts from the client until the client sends a number that matches the target number. 
 
